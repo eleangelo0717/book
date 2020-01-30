@@ -20,6 +20,7 @@ body {
 }
 .main-text {
     width:52%;
+    margin-left:5%;
 }
 .title {
     display: block;
@@ -64,6 +65,7 @@ body {
 .btn-2 {
     color: #f15921;
     padding: 20px 30px;
+    border: 3px solid #f15921;
     
 }
 .section {
@@ -95,7 +97,19 @@ body {
 }
 .block-text {
     font-size: 18px;
-    margin: 20px 0;
+    
+}
+.Shopping {
+    margin-bottom: 16px;
+}
+.Credit {
+    margin-bottom: 23px; 
+}
+.Shipped {
+    margin-bottom: 26px;
+}
+.Mailbox {
+    margin-bottom: 23px;
 }
 .gallery {
     margin-top: 68px;  
