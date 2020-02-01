@@ -61,6 +61,7 @@ body {
     background:#f15921;
     padding: 20px 40px;
     margin-right: 40px;
+    border: 3px solid #f15921;
 }
 .btn-2 {
     color: #f15921;
@@ -129,18 +130,17 @@ body {
     height: 261px;
     margin: 1%;
     max-width: 100%;
-    max-height: 100%;
+    border: 3px solid #f15921;
 }
 .exmp {
     overflow: hidden;
-   
     justify-content: center;
    
   }
   .exmp img {
     display: block;
     object-fit: cover;
-    max-height: 100%;
+    max-width: 100%;
 
   }/*
   .exmp2 {
