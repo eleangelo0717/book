@@ -88,29 +88,21 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    align-items: baseline;
+
+
     flex-wrap: wrap;
     margin-top: 90px;
 }
 .block {
     width: 23%;
-    text-align: center;
+    text-align:center ;
     margin-right: 2%;
 }
 .block-text {
     font-size: 18px;
+    margin-top: 20px;
     
-}
-.Shopping {
-    margin-bottom: 14px;
-}
-.Credit {
-    margin-bottom: 23px; 
-}
-.Shipped {
-    margin-bottom: 26px;
-}
-.Mailbox {
-    margin-bottom: 23px;
 }
 .gallery {
     margin-top: 68px; 
